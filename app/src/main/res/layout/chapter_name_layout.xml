@@ -13,7 +13,7 @@
         android:background="#9EC176"
         android:gravity="center"
         android:paddingLeft="10dp"
-        android:text="Chapter"
+        android:text="Chapter one"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         android:textColor="#F44336"
         android:textSize="20sp" />

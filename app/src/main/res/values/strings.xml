@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="todo">TODO</string>
+    <string-array name="chapter_name">
+        <item>Chapter one</item>
+        <item>Chapter two</item>
+        <item>Chapter three</item>
+        <item>Chapter four</item>
+        <item>Chapter five</item>
+        <item>Chapter six</item>
+        <item>Chapter seven</item>
+        <item>Chapter eight</item>
+        <item>Chapter nine</item>
+        <item>Chapter ten</item>
+
+    </string-array>
+</resources>

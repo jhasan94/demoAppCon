@@ -3,14 +3,18 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_margin="5dp"
     android:padding="5dp"
+    android:layout_marginBottom="30dp"
+    android:layout_marginTop="16dp"
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
 
     <TextView
         android:id="@+id/ChapterNameForSingleViewId"
         android:layout_width="match_parent"
-        android:layout_height="60dp"
-        android:background="#9EC176"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:background="#93BA67"
         android:gravity="center"
         android:paddingLeft="10dp"
         android:text="Chapter one"

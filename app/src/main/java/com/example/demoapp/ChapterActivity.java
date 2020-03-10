@@ -31,7 +31,7 @@ public class ChapterActivity extends AppCompatActivity {
             @Override
             public void onItemClick(int position, View v) {
 
-                Toast.makeText(getApplicationContext(),"position : "+position,Toast.LENGTH_SHORT).show();
+                //Toast.makeText(getApplicationContext(),"position : "+position,Toast.LENGTH_SHORT).show();
                 Intent intent = new Intent(ChapterActivity.this,Details_chapter.class);
                 intent.putExtra("title",chapterName[position]);
                 intent.putExtra("des",chapterDes[position]);
